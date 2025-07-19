@@ -5,7 +5,7 @@ body {
   color: black;
   background-color: rgb(254, 254, 254);
   width: 400px;
-  height: 600px;
+  height: 790px;
   margin: 5% 38%;
 }
 .box1 {
@@ -62,4 +62,19 @@ body {
 }
 #highlight {
   padding: 20px 0px 0px 0px;
+}
+.box3 {
+  display: flex;
+  justify-content: space-around;
+  font-size: 12px;
+}
+.footer {
+  display: flex;
+  width: 400px;
+  height: 50px;
+  border: 1px solid rgb(173, 172, 172);
+  justify-content: space-around;
+}
+#footerphoto {
+  padding: 10px 0px 0px 0px;
 }
