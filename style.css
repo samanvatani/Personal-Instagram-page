@@ -1,0 +1,59 @@
+body {
+  background-color: rgb(183, 191, 197);
+}
+.whitebox {
+  color: black;
+  background-color: rgb(254, 254, 254);
+  width: 400px;
+  height: 600px;
+  margin: 5% 38%;
+}
+.box1 {
+  padding: 5px 15px 0px 20px;
+  display: flex;
+}
+#p1 {
+  padding: 0px 25px 0px 10px;
+}
+#p3 {
+  padding: 0px 0px 0px 170px;
+}
+.box2 {
+  display: flex;
+}
+.profile {
+  display: flex;
+  align-items: center;
+}
+.posts,
+.followers,
+.following {
+  padding: 0px 0px 0px 27px;
+  text-align: center;
+}
+#followbutton,
+#messagebutton {
+  height: 25px;
+  width: 170px;
+  margin: 15px 0px 0px 0px;
+}
+#button {
+  height: 25px;
+}
+#followbutton {
+  margin: 0px 0px 0px 16px;
+  background-color: rgb(118, 79, 207);
+  color: aliceblue;
+  border: 1px solid rgb(118, 79, 207);
+}
+#button,
+#followbutton,
+#messagebutton {
+  border-radius: 5px;
+}
+#button,
+#messagebutton {
+  background-color: rgb(171, 176, 178);
+  border: 1px solid rgb(147, 149, 150);
+  color: aliceblue;
+}
